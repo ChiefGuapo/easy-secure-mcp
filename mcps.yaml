@@ -1,0 +1,5 @@
+GuapoMCP:
+  transport: "sse"
+  url: "http://192.168.1.159:8999/sse"
+  api_key: "CHANGE_ME_TOKEN_API_KEY"
+  auth_url: "http://192.168.1.159:8999/auth/token"

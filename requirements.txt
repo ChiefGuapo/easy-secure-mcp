@@ -1,0 +1,6 @@
+uvicorn
+fastmcp
+fastapi
+pyjwt
+pydantic
+langchain-mcp-adapters
