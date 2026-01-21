@@ -63,9 +63,8 @@ if str(_REPO_ROOT) not in sys.path:
 from typing import Optional
 
 import httpx
-from elevenlabs.conversational_ai import mcp_servers
 
-from langchain_mcp_adapters.client import MultiServerMCPClient, ClientSession
+from langchain_mcp_adapters.client import MultiServerMCPClient
 from langchain_mcp_adapters.tools import BaseTool
 
 
